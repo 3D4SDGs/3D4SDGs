@@ -11,7 +11,7 @@
 
 メールアドレス: 3d4sdgs+request@gmail.com
 
-ウェブフォーム: [https://docs.google.com/forms/d/e/1FAIpQLSeqlixaSejboJSf3d72mIYucSuiLi3lg4tM73n_jkdfZgRlJA/viewform]"https://docs.google.com/forms/d/e/1FAIpQLSeqlixaSejboJSf3d72mIYucSuiLi3lg4tM73n_jkdfZgRlJA/viewform"
+ウェブフォーム: [https://docs.google.com/forms/d/e/1FAIpQLSeqlixaSejboJSf3d72mIYucSuiLi3lg4tM73n_jkdfZgRlJA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeqlixaSejboJSf3d72mIYucSuiLi3lg4tM73n_jkdfZgRlJA/viewform)
 
 リクエストには、
 お名前、
@@ -24,7 +24,7 @@
 3Dモデルデータは、シンギバース(Thingiverse, 英語サイト)などの有志が作ったデータをアップロードするウェブサイトで探すことができます。
 
 
-シンギバースのURL: [https://www.thingiverse.com/](https://www.thingiverse.com/) (QR)
+シンギバースのURL: [https://www.thingiverse.com/](https://www.thingiverse.com/)
 
 3Dモデルを送付した方には、サービスの向上と今後の研究開発のためにアンケートをお願いすることを考えています。
 ご協力をお願いします。

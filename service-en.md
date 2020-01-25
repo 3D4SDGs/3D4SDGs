@@ -12,7 +12,7 @@ In your request, please include your name, the name of the object you want to to
 
 If the 3D model data to be output by the 3D printer has been decided, please attach the data to an e-mail or let us know the URL where the data can be downloaded. It is possible to find 3D model data on websites such as Thingiverse that upload data created by volunteers.
 
-Thingiverse https://www.thingiverse.com/
+Thingiverse [https://www.thingiverse.com/](https://www.thingiverse.com/)
 
 We hope to ask a person who is sent a 3D model to complete a questionnaire for improving the service and for future R&D. Thank you for your cooperation.
 
@@ -35,4 +35,5 @@ Our service has had experience in printing the following 3D model data.
 8. Castillo (a pyramid in Mexico; aka “Kukulcan Temple”)
 9. Cathedral of Santa Maria del Fiore
 
+---
 This service is implemented as part of the Japan Science and Technology Agency's "Co-creative R&D Program for Achieving SDGs.".
