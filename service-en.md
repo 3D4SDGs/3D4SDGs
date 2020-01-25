@@ -32,7 +32,7 @@ Our service has had experience in printing the following 3D model data.
 5. Angkor Wat
 6. Sydney Opera House
 7. Castel del Monte (a medieval castle in southern Italy)
-8. Castillo (a pyramid in Mexico; aka ÅgKukulcan TempleÅh)
+8. Castillo (a pyramid in Mexico; aka ‚ÄúKukulcan Temple‚Äù)
 9. Cathedral of Santa Maria del Fiore
 
 This service is implemented as part of the Japan Science and Technology Agency's "Co-creative R&D Program for Achieving SDGs.".
