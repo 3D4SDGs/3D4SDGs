@@ -1,7 +1,7 @@
 # 共創的支援を促進する視覚障害者のための３Ｄ造形物配信・出力エコシステムの構築
 ## 2019年度 「SDGsの達成に向けた共創的研究開発プログラム」採択課題
 
-![3Dモデルと触る手]"img/3d_model_touch.png"
+![3Dモデルと触る手](img/3d_model_touch.png)
 # NEWS
 ## 市民報告会: 「あなたの触りたいものを届けます」―【共創的支援を促進する視覚障害者のための3D造形物配信・出力エコシステムの構築】スタートアップシンポジウム―
 
@@ -9,12 +9,12 @@
 この研究の一環として、3Dモデル(模型)の提供サービスを試験運用します。
 今回のシンポジウムでは、本プロジェクトの趣旨説明と、3Dモデル提供サービス(試験版)の利用方法の解説を行います。
 触りたい模型のある視覚障害者の皆さん、模型を届けたいと考えている支援者の皆さん、CADを活用した支援に関心のある皆さん、その他プロジェクトに興味のある皆さんの参加をお待ちしています。
-[https://docs.google.com/forms/d/e/1FAIpQLSdJk9BQ0XgMnW92QbgfzJHbIuEbXM8TRmx2AWYX42-qreNFng/viewform
-]"参加申し込みはこちらから"
+[参加申し込みはこちらから](https://docs.google.com/forms/d/e/1FAIpQLSdJk9BQ0XgMnW92QbgfzJHbIuEbXM8TRmx2AWYX42-qreNFng/viewform
+)
 
 # サービス案内
-* [service.html]"日本語"
-* [service-en.html]"English"
+* [日本語](service.html)
+* [English](service-en.html)
 
 # 人
 ## 研究代表者 南谷 和範（独立行政法人 大学入試センター 研究開発部　准教授）
