@@ -12,6 +12,8 @@
 [参加申し込みはこちらから](https://docs.google.com/forms/d/e/1FAIpQLSdJk9BQ0XgMnW92QbgfzJHbIuEbXM8TRmx2AWYX42-qreNFng/viewform
 )
 
+盛会のうちに終了しました。参加いただいたみなさん、ありがとうございました。
+---
 # サービス案内
 * [日本語](service.html)
 * [English](service-en.html)
