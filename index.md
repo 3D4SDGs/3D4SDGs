@@ -10,8 +10,8 @@
 この研究の一環として、3Dモデル(模型)の提供サービスを試験運用します。
 今回のシンポジウムでは、本プロジェクトの趣旨説明と、3Dモデル提供サービス(試験版)の利用方法の解説を行います。
 触りたい模型のある視覚障害者の皆さん、模型を届けたいと考えている支援者の皆さん、CADを活用した支援に関心のある皆さん、その他プロジェクトに興味のある皆さんの参加をお待ちしています。
-[参加申し込みはこちらから](https://docs.google.com/forms/d/e/1FAIpQLSdJk9BQ0XgMnW92QbgfzJHbIuEbXM8TRmx2AWYX42-qreNFng/viewform
-)
+[]([参加申し込みはこちらから](https://docs.google.com/forms/d/e/1FAIpQLSdJk9BQ0XgMnW92QbgfzJHbIuEbXM8TRmx2AWYX42-qreNFng/viewform
+))
 
 盛会のうちに終了しました。参加いただいたみなさん、ありがとうございました。
 
