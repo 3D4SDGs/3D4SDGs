@@ -35,5 +35,14 @@ Our service has had experience in printing the following 3D model data.
 8. Castillo (a pyramid in Mexico; aka “Kukulcan Temple”)
 9. Cathedral of Santa Maria del Fiore
 
+10. Corona Virus
+
+11. Leaning Tower of Pisa
+
+![Examples of architecture model](img/3d_architecture_models.JPG)
+![Corona Virus and so on](img/sympo-2.jpg)
+![Leaning Tower of Pisa and famous Japanese buildings](img/sympo-3-1.jpg)
+![3D map of Japan](img/sympo-3-2.jpg)
+
 ---
 This service is implemented as part of the Japan Science and Technology Agency's "Co-creative R&D Program for Achieving SDGs.".
