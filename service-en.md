@@ -46,3 +46,6 @@ Our service has had experience in printing the following 3D model data.
 
 ---
 This service is implemented as part of the Japan Science and Technology Agency's "Co-creative R&D Program for Achieving SDGs.".
+---
+
+[Go to top of the site (in Japanese)](index.md)
