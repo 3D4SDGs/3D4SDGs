@@ -8,6 +8,16 @@
 
 # NEWS
 
+## 出演の紹介
+
+プロジェクトメンバーの岩村と南谷が
+ＪＢＳ日本福祉放送(USEN チャンネル:K08)の「竹田と山口の時々役立ちラジオ」第74回に出演しました。下記のURLからオンデマンドで聴けます。
+[http://www.jbs.or.jp/on-demand/on-demand.html](http://www.jbs.or.jp/on-demand/on-demand.html)
+[直接再生はこちら](http://www.jbs.or.jp/broadcasting/ondemand/radio/radio-NO74-40min.mp3)
+
+
+---
+
 ## 雑誌への寄稿
 
 [『教育と医学』第70巻1号(通巻808号、2022年1・2月号)](https://www.keio-up.co.jp/kyouikutoigaku/202201-02/)
