@@ -8,6 +8,14 @@
 
 # NEWS
 
+## 登壇
+
+６月１７日にオンラインで日本とフランスをつないで開催されるメイカソンイベント
+[FABRIKARIUM TOKYO – Make the world a better place\.](https://fabrikarium-tokyo.org/)
+に研究代表者南谷が登壇します。
+
+---
+
 ## 出演
 
 日本点字図書館が発行している録音雑誌
