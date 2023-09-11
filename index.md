@@ -23,7 +23,7 @@
 
 ![写真: シンポジウムで取り上げた鱗雲の3Dモデル](img/sympo8-uroko.jpg)
 
-![写真: シンポジウムで取り上げた入道雲の3Dモデル](img/sympo8-myuudou.jpg)
+![写真: シンポジウムで取り上げた入道雲の3Dモデル](img/sympo8-nyuudou.jpg)
 
 ![写真: シンポジウムで取り上げたブラックホールを撮影した画像を立体化した3Dモデル](img/sympo8-black.jpg)
 
