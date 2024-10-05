@@ -6,6 +6,19 @@
 ![3Dモデルと触る手](img/3d_model_touch.png)
 
 # NEWS
+## 研修会のお知らせ
+
+昨年度の開催に引き続き「さわれる模型製作研修会 2024」を４回シリーズで開催します。
+研修会詳細と申し込みは
+[ウェブフォーム](https://docs.google.com/forms/d/1tcRaEMM-v2gcOSgNHVD6mEN1ks-tmuZ15h-f5cS7PaE/edit)
+から。
+
+[チラシPDF](lecture-2024.pdf)
+
+(2024/10/12)
+
+
+---
 
 ## シンポジウムのお知らせ
 
