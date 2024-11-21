@@ -6,6 +6,27 @@
 ![3Dモデルと触る手](img/3d_model_touch.png)
 
 # NEWS
+
+## 受賞のお知らせ
+
+本年８月に北九州国際会議場で開催された
+21st International Conference on Geometry and Graphics (ICGG 2024)
+の会場で併催された
+International Digital Modeling Contest 2024
+において、本プロジェクト代表の南谷が出展した
+A model of the Taj Mahal for tactile and visual recognition
+が
+Special Jury Award
+を受賞しました。
+
+[コンテストのホームページ](https://idmc2024.graphicscience.jp/)
+
+[作品紹介(PDF)](https://idmc2024.graphicscience.jp/_files/common/TheSpecialJuryAward.pdf)
+
+(2024/11/21)
+
+---
+
 ## 研修会のお知らせ
 
 昨年度の開催に引き続き「さわれる模型製作研修会 2024」を４回シリーズで開催します。
