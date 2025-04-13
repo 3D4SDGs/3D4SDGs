@@ -43,7 +43,7 @@
 | :---: | :---: | :---: |
 |研究代表者 | [南谷 和範](https://www.dnc.ac.jp/research/kenkyukaihatsu/member.html#minatani) | 独立行政法人 大学入試センター 研究開発部　教授|
 |協働実施者 | [渡辺 哲也](http://vips.eng.niigata-u.ac.jp/) | 新潟大学 工学部　教授|
-|主たる実施者 | [岩村 雅一](http://imlab.jp/~masa/)|大阪公立大学 大学院工学研究科 教授|
+|主たる実施者 | [岩村 雅一](http://imlab.jp/~masa/)| 大阪公立大学 大学院情報学研究科 教授  |
 |研究協力者 | [元木 章博](https://researchmap.jp/motocky/) | 鶴見大学 文学部ドキュメンテーション学科 教授|
 
 # NEWS

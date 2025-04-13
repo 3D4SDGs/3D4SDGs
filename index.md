@@ -1,9 +1,50 @@
-# 「誰もが知りたいもの、必要なものを自由に手に入れ、触れられる社会」の創成に向けた3Dモデル提供体制の開発と実装
-
-
-## 2021年度 「SDGsの達成に向けた共創的研究開発プログラム」採択課題
+# 3D4SDGs: 「誰もが知りたいもの、必要なものを自由に手に入れ、触れられる社会」
 
 ![3Dモデルと触る手](img/3d_model_touch.png)
+
+## 本ウェブサイトについて
+
+本ウェブサイトは、
+2021年度 
+[「SDGsの達成に向けた共創的研究開発プログラム」](https://www.jst.go.jp/ristex/output/example/examin/solve.html)
+採択課題として2025年3月まで実施された
+[「『誰もが知りたいもの、必要なものを自由に手に入れ、触れられる社会』の創成に向けた3Dモデル提供体制の開発と実装」](https://www.jst.go.jp/ristex/output/example/needs/07/solve_minatani.html)
+の紹介のために運営してきました。
+今後は、シンポジウムや研修会の開催案内など含め、同課題を引き継ぎ発展させる活動の情報発信を引き続き行ってまいります。
+
+## 研究プロジェクト
+
+- [目の見えない人と見える人が共に世界を知り楽しむ立体カメラ開発](https://jp.foundation.canon/aid_common/aid_awardees/index.html)
+(
+[キヤノン財団](https://jp.foundation.canon/index.html)
+による研究助成
+) 2025年4月から2028年3月
+
+- [「『誰もが知りたいもの、必要なものを自由に手に入れ、触れられる社会』の創成に向けた3Dモデル提供体制の開発と実装」](https://www.jst.go.jp/ristex/output/example/needs/07/solve_minatani.html)
+(
+[「SDGsの達成に向けた共創的研究開発プログラム」](https://www.jst.go.jp/ristex/output/example/examin/solve.html)
+ソリューションフェーズ採択課題
+) 2021年10月から2025年3月
+
+- 「共創的支援を促進する視覚障害者のための3D造形物配信・出力エコシステムの構築」
+(
+[「SDGsの達成に向けた共創的研究開発プログラム」](https://www.jst.go.jp/ristex/output/example/examin/solve.html)
+シナリオフェーズ採択課題
+) 2019年11月から2021年9月
+
+## 協力組織
+
+- [ICTリハビリテーション研究会](https://www.ictrehab.com/)
+
+
+## 人
+
+| 役割 | 名前 | 所属 |
+| :---: | :---: | :---: |
+|研究代表者 | [南谷 和範](https://www.dnc.ac.jp/research/kenkyukaihatsu/member.html#minatani) | 独立行政法人 大学入試センター 研究開発部　教授|
+|協働実施者 | [渡辺 哲也](http://vips.eng.niigata-u.ac.jp/) | 新潟大学 工学部　教授|
+|主たる実施者 | [岩村 雅一](http://imlab.jp/~masa/)| 大阪公立大学 大学院情報学研究科 教授  |
+|研究協力者 | [元木 章博](https://researchmap.jp/motocky/) | 鶴見大学 文学部ドキュメンテーション学科 教授|
 
 # NEWS
 
@@ -14,6 +55,18 @@
 [シンポジウム「触れて納得のフロンティア」](sympo11.md)
 をオンライン
 で開催します。 (2025/02/11)
+
+これまでのシンポジウムで最多となる２００名を超える方に
+参加申し込みををいただき盛会のうちに終了しました。参加いただいたみなさん、ありがとうございました。
+ 
+![写真: 
+シンポジウムでヨガインストラクタ國嶋先生が取り上げた
+「戦士のポーズ」の模型
+](img/sympo11-yoga-fighter-pose.jpg "シンポジウムでヨガインストラクタ國嶋先生が取り上げた「戦士のポーズ」の模型")
+
+
+![写真: シンポジウムで取り上げた真空成型機により作成したハワイ諸島の立体地形図
+](img/sympo10-hawaii-sheet.jpg "シンポジウムで取り上げた真空成型機により作成したハワイ諸島の立体地形図")
 
 ---
 
@@ -420,15 +473,7 @@ SDGs MAGAZINE に本プロジェクトの活動が紹介されました。
 
 ---
 
-# サービス案内
+# サービス紹介
 * [日本語](service.html)
 * [English](service-en.html)
 
-# 人
-
-| 役割 | 名前 | 所属 |
-| :---: | :---: | :---: |
-|研究代表者 | [南谷 和範](https://www.dnc.ac.jp/research/kenkyukaihatsu/member.html#minatani) | 独立行政法人 大学入試センター 研究開発部　教授|
-|協働実施者 | [渡辺 哲也](http://vips.eng.niigata-u.ac.jp/) | 新潟大学 工学部　教授|
-|主たる実施者 | [岩村 雅一](http://imlab.jp/~masa/)|大阪府立大学 大学院工学研究科 准教授|
-|研究協力者 | [元木 章博](https://researchmap.jp/motocky/) | 鶴見大学 文学部ドキュメンテーション学科 教授|
