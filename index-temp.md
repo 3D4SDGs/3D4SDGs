@@ -10,7 +10,7 @@
 採択課題として2025年3月まで実施された
 [「『誰もが知りたいもの、必要なものを自由に手に入れ、触れられる社会』の創成に向けた3Dモデル提供体制の開発と実装」](https://www.jst.go.jp/ristex/output/example/needs/07/solve_minatani.html)
 の紹介のために運営してきました。
-今後は、同課題を引き継ぎ発展させる研究プロジェクトの情報発信を引き続き行ってまいります。
+今後は、シンポジウムや研修会の開催案内など含め、同課題を引き継ぎ発展させる活動の情報発信を引き続き行ってまいります。
 
 ## 研究プロジェクト
 
@@ -31,6 +31,20 @@
 [「SDGsの達成に向けた共創的研究開発プログラム」](https://www.jst.go.jp/ristex/output/example/examin/solve.html)
 シナリオフェーズ採択課題
 ) 2019年11月から2021年9月
+
+## 協力組織
+
+- [ICTリハビリテーション研究会](https://www.ictrehab.com/)
+
+
+## 人
+
+| 役割 | 名前 | 所属 |
+| :---: | :---: | :---: |
+|研究代表者 | [南谷 和範](https://www.dnc.ac.jp/research/kenkyukaihatsu/member.html#minatani) | 独立行政法人 大学入試センター 研究開発部　教授|
+|協働実施者 | [渡辺 哲也](http://vips.eng.niigata-u.ac.jp/) | 新潟大学 工学部　教授|
+|主たる実施者 | [岩村 雅一](http://imlab.jp/~masa/)|大阪公立大学 大学院工学研究科 教授|
+|研究協力者 | [元木 章博](https://researchmap.jp/motocky/) | 鶴見大学 文学部ドキュメンテーション学科 教授|
 
 # NEWS
 
@@ -459,15 +473,7 @@ SDGs MAGAZINE に本プロジェクトの活動が紹介されました。
 
 ---
 
-# サービス案内
+# サービス紹介
 * [日本語](service.html)
 * [English](service-en.html)
 
-# 人
-
-| 役割 | 名前 | 所属 |
-| :---: | :---: | :---: |
-|研究代表者 | [南谷 和範](https://www.dnc.ac.jp/research/kenkyukaihatsu/member.html#minatani) | 独立行政法人 大学入試センター 研究開発部　教授|
-|協働実施者 | [渡辺 哲也](http://vips.eng.niigata-u.ac.jp/) | 新潟大学 工学部　教授|
-|主たる実施者 | [岩村 雅一](http://imlab.jp/~masa/)|大阪公立大学 大学院工学研究科 教授|
-|研究協力者 | [元木 章博](https://researchmap.jp/motocky/) | 鶴見大学 文学部ドキュメンテーション学科 教授|
