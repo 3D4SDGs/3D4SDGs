@@ -1,4 +1,4 @@
-# 3D4SDGs: 「誰もが知りたいもの、必要なものを自由に手に入れ、触れられる社会」
+# 3D4SDGs: 「誰もが知りたいもの、必要なものを自由に手に入れ、触れられる社会」に向けて
 
 ![3Dモデルと触る手](img/3d_model_touch.png)
 
@@ -480,6 +480,6 @@ SDGs MAGAZINE に本プロジェクトの活動が紹介されました。
 
 # Contact
 
-[プロジェクトやウェブサイトについてのお問い合わせはこちら](https://forms.gle/BgtEUFmLyP5qKbHi7)
+- [プロジェクトやウェブサイトについてのお問い合わせはこちら](https://forms.gle/BgtEUFmLyP5qKbHi7)
 
-[プロジェクトからのお知らせのお申込はこちら](https://forms.gle/aZbMSJ4YL8GSkFut9)
+- [プロジェクトからのお知らせのお申込はこちら](https://forms.gle/aZbMSJ4YL8GSkFut9)
