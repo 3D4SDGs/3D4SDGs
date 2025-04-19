@@ -14,11 +14,14 @@
 
 ## 研究プロジェクト
 
-- [目の見えない人と見える人が共に世界を知り楽しむ立体カメラ開発](https://jp.foundation.canon/aid_common/aid_awardees/index.html)
+- [「目の見えない人と見える人が共に世界を知り楽しむ立体カメラ開発」](https://jp.foundation.canon/aid_common/aid_awardees/index.html)
 (
 [キヤノン財団](https://jp.foundation.canon/index.html)
 による研究助成
 ) 2025年4月から2028年3月
+
+- [「インクルーシブ生涯教育実現のための触察用立体模型の総合的研究開発」](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24H00162/)
+(科研費基盤研究（A)) 2024年4月から2028年3月
 
 - [「『誰もが知りたいもの、必要なものを自由に手に入れ、触れられる社会』の創成に向けた3Dモデル提供体制の開発と実装」](https://www.jst.go.jp/ristex/output/example/needs/07/solve_minatani.html)
 (
